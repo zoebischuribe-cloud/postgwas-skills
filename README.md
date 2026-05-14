@@ -75,8 +75,9 @@ cp -R skills/pgwas-mr ~/.openclaw/workspace/skills/
 | Skill | Status | Purpose | Trigger keywords |
 |-------|--------|---------|------------------|
 | [`pgwas-mr`](skills/pgwas-mr/README.md) | Beta | Two-sample Mendelian Randomization workflow | "MR", "Mendelian randomization", "causal inference", "two-sample MR" |
+| [`pgwas-coloc`](skills/pgwas-coloc/README.md) | Beta | Colocalization analysis for shared causal variants | "colocalization", "coloc", "shared causal variant" |
 
-> 更多技能开发中...
+> 更多技能开发中: pgwas-twas, pgwas-finemapping...
 
 ---
 
