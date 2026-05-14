@@ -16,7 +16,7 @@ Hello, I'm lilaoban, working on bioinformatics and Post-GWAS analysis. This repo
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lilaoban/postgwas-skills&type=Date&cache_bust=2026-05-14)](https://star-history.com/#lilaoban/postgwas-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zoebischuribe-cloud/postgwas-skills&type=Date&cache_bust=2026-05-14)](https://star-history.com/#zoebischuribe-cloud/postgwas-skills&Date)
 
 ---
 
@@ -27,7 +27,7 @@ Hello, I'm lilaoban, working on bioinformatics and Post-GWAS analysis. This repo
 ### 1. Codex
 
 ```bash
-git clone https://github.com/lilaoban/postgwas-skills.git
+git clone https://github.com/zoebischuribe-cloud/postgwas-skills.git
 cd postgwas-skills
 
 # 安装单个技能
