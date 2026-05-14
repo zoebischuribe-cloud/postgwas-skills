@@ -1,0 +1,18 @@
+# Dependencies
+.Rhistory
+.Rapp.history
+
+# Data files
+*.csv
+*.tsv
+*.txt
+!README.txt
+
+# Output files
+*.pdf
+*.png
+*.html
+
+# R
+.RData
+.Ruserdata
