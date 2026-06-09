@@ -1,7 +1,6 @@
 # postgwas-skills
 
-大家好，我是李老斑（lilaoban），目前主要从事生物信息学与 Post-GWAS 分析相关的研究。这个仓库提供了一套可复用的 AI Skills，帮助研究者快速完成 GWAS 后续分析流程。
-
+大家好，我目前主要从事生物信息学与 Post-GWAS 分析相关的研究。这个仓库提供了一套可复用的 AI Skills，帮助研究者快速完成 GWAS 后续分析流程。
 Hello, I'm lilaoban, working on bioinformatics and Post-GWAS analysis. This repository provides reusable AI Skills to help researchers quickly complete post-GWAS analysis workflows.
 
 ## 🎯 适用场景
@@ -83,9 +82,6 @@ cp -R skills/pgwas-mr ~/.openclaw/workspace/skills/
 
 ## 📢 关于作者
 
-- **研究方向**：Post-GWAS 分析、MR × sc-eQTL、双性状共病分析
-- **服务器**：jcswkj.net:1026
-- **项目**：QTLMR 流程复现
 
 如有合作意向，欢迎通过 GitHub Issues 联系。
 
