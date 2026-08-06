@@ -15,7 +15,7 @@ Hello, I'm lilaoban, working on bioinformatics and Post-GWAS analysis. This repo
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zoebischuribe-cloud/postgwas-skills&type=Date&cache_bust=2026-08-05T21
+[![Star History Chart](https://api.star-history.com/svg?repos=zoebischuribe-cloud/postgwas-skills&type=Date&cache_bust=2026-08-06T02
 
 ---
 
